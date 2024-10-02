@@ -1,0 +1,8 @@
+title: Towards Diverse and Consistent Typography Generation
+description:
+show_downloads: true
+github:
+  pub_url: https://openaccess.thecvf.com/content/WACV2024/papers/Shimoda_Towards_Diverse_and_Consistent_Typography_Generation_WACV_2024_paper.pdf
+  paper_url: https://arxiv.org/abs/2309.02099
+  code_url: https://github.com/CyberAgentAILab/tdc-typography-generation
+theme: jekyll-theme-cayman
