@@ -4,28 +4,24 @@ layout: default
 
 ## Towards Diverse and Consistent Typography Generation
 
-![Concept](https://raw.githubusercontent.com/CyberAgentAILab/tdc-typography-generation/projectpage/images/teaser.jpg)
+![Concept](https://raw.githubusercontent.com/CyberAgentAILab/Graphic-design-evaluation-in-GPT/projectpage/main/teaser.jpg)
 
 Wataru Shimoda<sup>1</sup>, Daichi Haraguchi<sup>2</sup>, Seiichi Uchida<sup>2</sup>, Kota Yamaguchi<sup>1</sup>  
 <sup>1</sup>CyberAgent.Inc, <sup>2</sup> Kyushu University  
 
 ### Abstruct
-In this work, we consider the typography generation task that aims at producing diverse typographic styling for the given graphic document. We formulate typography generation as a fine-grained attribute generation for multiple text elements and build an autoregressive model to generate diverse typography that matches the input design context. We further propose a simple yet effective sampling approach that respects the consistency and distinction principle of typography so that generated examples share consistent typographic styling across text elements. Our empirical study shows that our model successfully generates diverse typographic designs while preserving a consistent typographic structure.
-
+Recent advancements in foundation models show promising capability in graphic design generation. Several studies have started employing Large Multimodal Models (LMMs) to evaluate graphic designs, assuming that LMMs can properly assess their quality, but it is unclear if the evaluation is reliable. One way to evaluate the quality of graphic design is to assess whether the design adheres to fundamental graphic design principles, which are the designer's common practice. In this paper, we compare the behavior of GPT-based evaluation and heuristic evaluation based on design principles using human annotations collected from 60 subjects. Our experiments reveal that, while GPTs cannot distinguish small details, they have a reasonably good correlation with human annotation and exhibit a similar tendency to heuristic metrics based on design principles, suggesting that they are indeed capable of assessing the quality of graphic design.
 
 ### Results
-<img src = "https://raw.githubusercontent.com/CyberAgentAILab/tdc-typography-generation/projectpage/images/res.png" title = "res">
+<img src = "https://raw.githubusercontent.com/CyberAgentAILab/Graphic-design-evaluation-in-GPT/main/images/res.png" title = "res">
 
 ### Results with different diversity  
-<img src = "https://raw.githubusercontent.com/CyberAgentAILab/tdc-typography-generation/projectpage/images/diverseexample.png" title = "cmp">
+<img src = "https://raw.githubusercontent.com/CyberAgentAILab/Graphic-design-evaluation-in-GPT/main/images/plot.png" title = "cmp">
 
 ### Citation
 
 ```bibtex
-@misc{shimoda_2024_tdctg,
-    author    = {Shimoda, Wataru and Haraguchi, Daichi and Uchida, Seiichi and Yamaguchi, Kota},
-    title     = {Towards Diverse and Consistent Typography Generation},
-    publisher = {arXiv:2309.02099},
-    year      = {2024},
+@misc{
+coming soon
 }
 ```
