@@ -4,7 +4,7 @@ layout: default
 
 ## Can GPTs Evaluate Graphic Design Based on Design Principles?
 
-![Concept](https://github.com/CyberAgentAILab/CyberAgentAILab/Graphic-design-evaluation-in-GPT/projectpage/blob/main/teaser.jpg)
+![Concept](https://github.com/CyberAgentAILab/CyberAgentAILab/Graphic-design-evaluation-in-GPT/blob/main/teaser.jpg)
 
 
 Daichi Haraguchi<sup>1</sup>, Naoto Inoue<sup>1</sup>, Wataru Shimoda<sup>1</sup>, Hayato Mitani<sup>2</sup>, Seiichi Uchida<sup>2</sup>, Kota Yamaguchi<sup>1</sup>  
