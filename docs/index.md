@@ -7,7 +7,7 @@ layout: default
 ![Concept](https://github.com/CyberAgentAILab/CyberAgentAILab/Graphic-design-evaluation-in-GPT/projectpage/blob/main/teaser.jpg)
 
 
-Wataru Shimoda<sup>1</sup>, Daichi Haraguchi<sup>2</sup>, Seiichi Uchida<sup>2</sup>, Kota Yamaguchi<sup>1</sup>  
+Daichi Haraguchi<sup>1</sup>, Naoto Inoue<sup>1</sup>, Wataru Shimoda<sup>1</sup>, Hayato Mitani<sup>2</sup>, Seiichi Uchida<sup>2</sup>, Kota Yamaguchi<sup>1</sup>  
 <sup>1</sup>CyberAgent.Inc, <sup>2</sup> Kyushu University  
 
 ### Abstruct
