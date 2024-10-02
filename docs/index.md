@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Towards Diverse and Consistent Typography Generation
+## Can GPTs Evaluate Graphic Design Based on Design Principles?
 
 ![Concept](https://raw.githubusercontent.com/CyberAgentAILab/Graphic-design-evaluation-in-GPT/projectpage/blob/main/teaser.jpg)
 
