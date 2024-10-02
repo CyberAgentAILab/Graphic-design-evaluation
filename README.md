@@ -1,1 +1,1 @@
-This repository is only for the project page
+This is official repository of "Can GPTs Evaluate Graphic Design Based on Design Principles?"
