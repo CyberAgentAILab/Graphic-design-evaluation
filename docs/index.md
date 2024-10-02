@@ -6,6 +6,7 @@ layout: default
 
 ![Concept](https://github.com/CyberAgentAILab/CyberAgentAILab/Graphic-design-evaluation-in-GPT/projectpage/blob/main/teaser.jpg)
 
+
 Wataru Shimoda<sup>1</sup>, Daichi Haraguchi<sup>2</sup>, Seiichi Uchida<sup>2</sup>, Kota Yamaguchi<sup>1</sup>  
 <sup>1</sup>CyberAgent.Inc, <sup>2</sup> Kyushu University  
 
@@ -16,7 +17,7 @@ Recent advancements in foundation models show promising capability in graphic de
 <img src = "https://raw.githubusercontent.com/CyberAgentAILab/Graphic-design-evaluation-in-GPT/blob/main/images/res.png" title = "res">
 
 ### Results with different diversity  
-<img src = "https://raw.githubusercontent.com/CyberAgentAILab/Graphic-design-evaluation-in-GPT/blob/main/images/plot.png" title = "cmp">
+<img src = "[https://raw.githubusercontent.com/CyberAgentAILab/Graphic-design-evaluation-in-GPT/blob/main/images/plot.png](https://github.com/CyberAgentAILab/Graphic-design-evaluation-in-GPT/blob/main/images/plot.png)" title = "cmp">
 
 ### Citation
 
