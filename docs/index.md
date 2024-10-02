@@ -17,7 +17,7 @@ Recent advancements in foundation models show promising capability in graphic de
 <img src = "https://raw.githubusercontent.com/CyberAgentAILab/Graphic-design-evaluation-in-GPT/blob/main/images/res.png" title = "res">
 
 ### Results with different diversity  
-<img src = "[https://raw.githubusercontent.com/CyberAgentAILab/Graphic-design-evaluation-in-GPT/blob/main/images/plot.png](https://github.com/CyberAgentAILab/Graphic-design-evaluation-in-GPT/blob/main/images/plot.png)" title = "cmp">
+<img src = "https://github.com/CyberAgentAILab/Graphic-design-evaluation-in-GPT/blob/main/images/plot.png" title = "cmp">
 
 ### Citation
 
