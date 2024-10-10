@@ -27,10 +27,10 @@ File names consist of "[eval method]_[eval type]\_[design principle]."
 Note:  
 "eval. method" is "gpt" or "human."  
 "eval. type" is "abs" (absolute evaluation) or "comp" (comparative (relative) evaluation).  
-"design principle" is "alignment", "overlap", or "whitespace."  
+"design principle" is "alignment," "overlap," or "whitespace."  
 
 Example:  
-"gpt_abs_alignment.csv" is the absolute evaluation results of GPT evaluation for alignment. 
+"gpt_abs_alignment.csv" is the absolute evaluation result by GPT for alignment. 
 
 ## The structure of each CSV file
 CSV for absolute evaluation
