@@ -36,12 +36,12 @@ Example:
 CSV for absolute evaluation
 | id | perturbation | 0 | 1 | 2 | 3 | 4 | avg |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| image id | size of perturbation | score | score | score | score | score |average score|
+| image id | perturbation size | score | score | score | score | score |average score|
 
 CSV for relative evaluation
 | id | comparative | better_design_0 | better_design_1 | better_design_2 | better_design_3 | better_design_4 | voting_res |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| imag id | comparison image with the original | voting result | voting result| voting result | voting result | voting result | aggrigation of voting results|
+| imag id | perturbation size of comparison image | voting result | voting result| voting result | voting result | voting result | aggrigation of voting results|
 
 
 ## Visualization
