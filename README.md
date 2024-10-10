@@ -28,10 +28,15 @@ File names consist of "[eval method]_[eval. type]_[design principle]."
 "design principle" is "alignment", "overlap", or "whitespace."
 
 ## The structure of each CSV file
+CSV for absolute evaluation
 | id | perturbation | 0 | 1 | 2 | 3 | 4 | avg |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| image_id | size of perturbation | score | score | score | score | score |average score|
+| image id | size of perturbation | score | score | score | score | score |average score|
 
+CSV for relative evaluation
+| id | comparative | better_design_0 | better_design_1 | better_design_2 | better_design_3 | better_design_4 | voting_res |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| imag _id | comparison image with the original | voting result | voting result| voting result | voting result | voting result | aggrigation of voting results|
 
 
 ## Visualization
