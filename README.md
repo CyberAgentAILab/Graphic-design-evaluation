@@ -22,10 +22,15 @@ This repository contains the data for "Can GPTs Evaluate Graphic Design Based on
       └── human_comp_whitespace.csv
 </pre>
 Each CSV file includes the evaluation results.
-File names consist of "[eval method]_[eval. type]\_[design principle]."
+File names consist of "[eval method]_[eval type]\_[design principle]."
+
+Note:
 "eval. method" is "gpt" or "human."
 "eval. type" is "abs" (absolute evaluation) or "comp" (comparative (relative) evaluation).
 "design principle" is "alignment", "overlap", or "whitespace."
+
+Example:
+"gpt_abs_alignment.csv" is the absolute evaluation results of GPT evaluation for alignment. 
 
 ## The structure of each CSV file
 CSV for absolute evaluation
@@ -36,7 +41,7 @@ CSV for absolute evaluation
 CSV for relative evaluation
 | id | comparative | better_design_0 | better_design_1 | better_design_2 | better_design_3 | better_design_4 | voting_res |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| imag _id | comparison image with the original | voting result | voting result| voting result | voting result | voting result | aggrigation of voting results|
+| imag id | comparison image with the original | voting result | voting result| voting result | voting result | voting result | aggrigation of voting results|
 
 
 ## Visualization
