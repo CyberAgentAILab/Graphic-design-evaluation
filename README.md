@@ -23,7 +23,7 @@ This repository contains the data for "Can GPTs Evaluate Graphic Design Based on
 └── images.zip
 </pre>
 Each CSV file includes the evaluation results.
-File names consist of "[eval method]_[eval type]\_[design principle].csv."
+File names consist of "[eval method]_[eval type]\_[design principle].csv."  
 "images.zip" includes images.
 
 Note:  
