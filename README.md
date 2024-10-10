@@ -46,7 +46,7 @@ CSV for relative evaluation
 
 ## Visualization
 We provides a notebook for showing results.  
-- `scatter_plot.ipnyb` shows the scatter plot between human evaluation and GPT evaluation.  
+- `scatter_plot.ipynb` shows the scatter plot between human evaluation and GPT evaluation.  
 
 ## Reference
 ```bibtex
