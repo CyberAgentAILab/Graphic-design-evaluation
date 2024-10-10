@@ -31,7 +31,7 @@ File names consist of "[eval method]_[eval. type]_[design principle]."
 | id | perturbation | 0 | 1 | 2 | 3 | 4 | avg |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | image_id | size of perturbation | score | score | score | score | score |average score|
-| ... | ... |...|...|...|...|...|...|
+
 
 
 ## Visualization
