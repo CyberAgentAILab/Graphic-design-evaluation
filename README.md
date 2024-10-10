@@ -9,7 +9,7 @@ This repository contains the data for "Can GPTs Evaluate Graphic Design Based on
 
 <img src = "https://github.com/CyberAgentAILab/Graphic-design-evaluation/blob/projectpage/docs/images/teaser.jpg" title = "teaser" >
 
-## Data stracture
+## Data
 <pre>
 ./GPT_eval_data
 ├── gpt_eval
