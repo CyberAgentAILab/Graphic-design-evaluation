@@ -16,13 +16,15 @@ This repository contains the data for "Can GPTs Evaluate Graphic Design Based on
       ├── gpt_abs_alignment.csv
       ...
       └── gpt_comp_whitespace.csv
-└── human_eval_data
+├── human_eval_data
       ├── human_abs_alignment.csv
       ...
       └── human_comp_whitespace.csv
+└── images.zip
 </pre>
 Each CSV file includes the evaluation results.
-File names consist of "[eval method]_[eval type]\_[design principle]."
+File names consist of "[eval method]_[eval type]\_[design principle].csv."
+"images.zip" includes images.
 
 Note:  
 "eval. method" is "gpt" or "human."  
