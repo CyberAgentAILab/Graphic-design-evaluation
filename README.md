@@ -22,7 +22,7 @@ This repository contains the data for "Can GPTs Evaluate Graphic Design Based on
       └── human_comp_whitespace.csv
 </pre>
 Each CSV file includes the evaluation results.
-File names consist of "[eval method]_[eval. type]_[design principle]."
+File names consist of "[eval method]_[eval. type]\_[design principle]."
 "eval. method" is "gpt" or "human."
 "eval. type" is "abs" (absolute evaluation) or "comp" (comparative (relative) evaluation).
 "design principle" is "alignment", "overlap", or "whitespace."
