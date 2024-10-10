@@ -24,12 +24,12 @@ This repository contains the data for "Can GPTs Evaluate Graphic Design Based on
 Each CSV file includes the evaluation results.
 File names consist of "[eval method]_[eval type]\_[design principle]."
 
-Note:
+Note:  
 "eval. method" is "gpt" or "human."  
 "eval. type" is "abs" (absolute evaluation) or "comp" (comparative (relative) evaluation).  
 "design principle" is "alignment", "overlap", or "whitespace."  
 
-Example:
+Example:  
 "gpt_abs_alignment.csv" is the absolute evaluation results of GPT evaluation for alignment. 
 
 ## The structure of each CSV file
