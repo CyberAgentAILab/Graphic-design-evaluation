@@ -43,7 +43,7 @@ CSV for absolute evaluation
 CSV for relative evaluation
 | id | comparative | better_design_0 | better_design_1 | better_design_2 | better_design_3 | better_design_4 | voting_res |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| imag id | perturbation size of comparison image | voting result | voting result| voting result | voting result | voting result | aggrigation of voting results|
+| image id | perturbation size of comparison image | voting result | voting result| voting result | voting result | voting result | aggregation of voting results|
 
 
 ## Visualization
