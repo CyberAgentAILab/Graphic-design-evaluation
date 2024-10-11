@@ -78,4 +78,4 @@ coming soon
 ```
 
 ## Contact
-This repository is maintained by [Daichi Haraguchi](<haraguchi_daichi_xa@cyberagent.co.jp>).
+This repository is maintained by [Daichi Haraguchi](<mailto:haraguchi_daichi_xa@cyberagent.co.jp>).
