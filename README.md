@@ -24,8 +24,6 @@ This repository contains the data for "Can GPTs Evaluate Graphic Design Based on
 </pre>
 Each CSV file includes the evaluation results.
 File names consist of "[eval method]_[eval type]\_[design principle].csv."  
-"images.zip" includes images.
-
 Note:  
 "eval. method" is "gpt" or "human."  
 "eval. type" is "abs" (absolute evaluation) or "comp" (comparative (relative) evaluation).  
@@ -34,16 +32,38 @@ Note:
 Example:  
 "gpt_abs_alignment.csv" is the absolute evaluation result by GPT for alignment. 
 
+"images.zip" includes images.
+The structure in the "images.zip"  
+<pre>
+image
+├── lefttop_large
+      ├── <image_ID>.png
+      ...
+      └── <image_ID>.png
+...
+└── org
+      ├── <image_ID>.png
+      ...
+      └── <image_ID>.png
+</pre>
+
+Note:  
+The directory name consists of "[perturbation element]_[perturbation size]"  
+"Org" includes original images without perturbation.  
+Each image name is an image ID that is written in the CSV files.  
+
+
+
 ## The structure of each CSV file
 CSV for absolute evaluation
 | id | perturbation | 0 | 1 | 2 | 3 | 4 | avg |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| image id | perturbation size | score | score | score | score | score |average score|
+| image ID | perturbation size | score | score | score | score | score |average score|
 
 CSV for relative evaluation
 | id | comparative | better_design_0 | better_design_1 | better_design_2 | better_design_3 | better_design_4 | voting_res |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| image id | perturbation size of comparison image | voting result | voting result| voting result | voting result | voting result | aggregation of voting results|
+| image ID | perturbation size of comparison image | voting result | voting result| voting result | voting result | voting result | aggregation of voting results|
 
 
 ## Visualization
