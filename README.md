@@ -37,14 +37,14 @@ The structure in the "images.zip"
 <pre>
 image
 ├── lefttop_large
-      ├── <image_ID>.png
+      ├── [image_ID].png
       ...
-      └── <image_ID>.png
+      └── [image_ID].png
 ...
 └── org
-      ├── <image_ID>.png
+      ├── [image_ID].png
       ...
-      └── <image_ID>.png
+      └── [image_ID].png
 </pre>
 
 Note:  
