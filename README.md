@@ -35,7 +35,7 @@ Example:
 "images.zip" includes images.
 The structure in the "images.zip"  
 <pre>
-image
+images
 ├── lefttop_large
       ├── [image_ID].png
       ...
