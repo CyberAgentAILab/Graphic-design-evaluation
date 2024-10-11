@@ -4,5 +4,5 @@ show_downloads: true
 github:
   pub_url: 
   paper_url: 
-  code_url: 
+  code_url: https://github.com/CyberAgentAILab/Graphic-design-evaluation
 theme: jekyll-theme-cayman
