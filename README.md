@@ -32,8 +32,8 @@ Note:
 Example:  
 "gpt_abs_alignment.csv" is the absolute evaluation result by GPT for alignment. 
 
-"images.zip" includes images.
-The structure in the "images.zip"  
+"images.zip" includes images.  
+The structure in the "images.zip" is below.
 <pre>
 images
 ├── lefttop_large
