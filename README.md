@@ -78,4 +78,5 @@ coming soon
 ```
 
 ## Contact
-This repository is maintained by Daichi Haraguchi(haraguchi_daichi_xa[at]cyberagent.co.jp).
+This repository is maintained by Daichi Haraguchi.  
+E-mail: haraguchi_daichi_xa[at]cyberagent.co.jp
