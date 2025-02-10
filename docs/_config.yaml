@@ -2,7 +2,7 @@ title: Can GPTs Evaluate Graphic Design Based on Design Principles?
 description:
 show_downloads: true
 github:
-  pub_url: 
-  paper_url: 
+  pub_url: https://dl.acm.org/doi/10.1145/3681758.3698010
+  paper_url: https://arxiv.org/abs/2410.08885
   code_url: https://github.com/CyberAgentAILab/Graphic-design-evaluation
 theme: jekyll-theme-cayman
