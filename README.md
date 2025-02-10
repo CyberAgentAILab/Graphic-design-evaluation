@@ -72,8 +72,12 @@ We provides a notebook for showing results.
 
 ## Reference
 ```bibtex
-@misc{
-coming soon
+@inproceedings{haraguchi2024can,
+  title={Can GPTs Evaluate Graphic Design Based on Design Principles?},
+  author={Haraguchi, Daichi and Inoue, Naoto and Shimoda, Wataru and Mitani, Hayato and Uchida, Seiichi and Yamaguchi, Kota},
+  booktitle={SIGGRAPH Asia 2024 Technical Communications},
+  pages={1--4},
+  year={2024}
 }
 ```
 
